@@ -38,8 +38,12 @@ features                                  :
     description                           : Designed for iOS, built with SwiftUI. For a fast and pretty experience.
     fontawesome_icon_name                 : grin-stars
     
+  - title                                 : Reading your EmojiScope
+    description                           : EmojiScopes could be silly, funny, or crazy! It's up to you to interpret what they mean.
+    fontawesome_icon_name                 : book
+    
   - title                                 : Friends' EmojiScopes
-    description                           : Check your friend's EmojiScope using their star sign
+    description                           : Check your friend's EmojiScope using their star sign via the friends tab.
     fontawesome_icon_name                 : star
     
   - title                                 : iPhone Device Preview
