@@ -11,7 +11,22 @@ EmojiScope's changelog and update information is here!
 
 ### `Latest`
 # **Version 1.0**
-This is the first update to our app. Jeez **goodness** by kept more sensually a much far proper exotically precise [here is a link](https://www.google.com) and and illicit hey uninspiring the more sat honey knelt before before bearish bowed lorikeet wolf grandly instead diligently and rhinoceros imperative.
+Minor name code update
+
+## **Build 4**
+
+#### What's New
+- Changed the default name when no user name is available
+
+#### Bug Fixes
+- N/A
+
+<br>
+________
+<br>
+
+# **Version 1.0**
+Minor image asset updates
 
 ## **Build 3**
 
