@@ -46,17 +46,21 @@ features                                  :
     description                           : Check your friend's EmojiScope using their star sign via the friends tab.
     fontawesome_icon_name                 : star
     
+  - title                                 : Widgets
+    description                           : See your EmojiScope on your homescreen!
+    fontawesome_icon_name                 : magic
+
+  - title                                 : Built-in Sharing
+    description                           : Easily share your EmojiScope card with your friends, to Twitter, or post directly to your Instagram story!
+    fontawesome_icon_name                 : share
+
+  - title                                 : Custom Notification
+    description                           : New EmojiScope predictions are created for you each day, set a custom time to be reminded to check your EmojiScope!
+    fontawesome_icon_name                 : flag
+
   - title                                 : iPhone Device Preview
     description                           : Supports all iOS devices including iPhone and iPad on iOS14 and up!
     fontawesome_icon_name                 : mobile
-
-  - title                                 : Built-in Sharing
-    description                           : Easily share your EmojiScope card with your friends, or post directly to your Instagram story.
-    fontawesome_icon_name                 : share
-
-  - title                                 : Morning Notification
-    description                           : New EmojiScope predictions are created for you each day, be reminded with a little notification in the morning.
-    fontawesome_icon_name                 : flag
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
